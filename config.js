@@ -2,7 +2,7 @@ window.PorfolioConfig = {
   name: 'LE BEAUDOUR Bastien',
   jobTitle: 'Etudiant en Informatique',
   jobDescription: "En recherche d'Alternance en développement logiciel.",
-  skills: [
+  langages: [
     {
       name: 'Python',
       description: "Bonne maîtrise, plusieurs projets réalisés dans ce langage. <br>4 ans d'expérience."
@@ -24,7 +24,7 @@ window.PorfolioConfig = {
       description: "Bonne maîtrise. <br>2 ans d'expériences."
     }
   ],
-  works: [
+  competences: [
     {
       name: 'Développer des applications informatiques simples',
       description: "Développement d'un bot Discord qui aide à la gestion de parties de jeu de rôle en ligne."
@@ -53,14 +53,16 @@ window.PorfolioConfig = {
   etudes: [
     {
       name: 'BUT Informatique 2024-2027',
+      link: "https://iut-lannion.univ-rennes.fr/",
       description: "BUT Informatique à l'IUT de Lannion."
     },
     {
       name: 'Lycée Général 2021-2024',
+      link: "https://www.lycee-rabelais-saint-brieuc.ac-rennes.fr/",
       description: "Bac spécialité mathématiques et NSI au Lycée Rabelais de Saint-Brieuc."
     }
   ],
-  hobbies: [
+  passions: [
     {
       name: 'Programmation',
       description: "Programmer des logiciels et des algorithmes est passionnant."
