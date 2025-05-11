@@ -107,7 +107,7 @@
             <v-col cols="12" md="6">
               <h1 class="primary--text" data-aos="fade-up">/Etudes</h1>
             </v-col>
-            <v-col v-for="(etude, index) in etudes" cols="12" :key="index">
+            <v-col v-for="(etude, index) in etudes" cols="12" :key="index" :href="etude.link" >
               <v-card hover="hover" height="100%" data-aos="fade-up">
                 <v-card-text>
                   <h2 class="primary--text">>
