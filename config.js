@@ -26,27 +26,27 @@ window.PorfolioConfig = {
   ],
   competences: [
     {
-      name: 'Développer des applications informatiques simples',
+      name: 'Développer des applications informatiques',
       description: "Développement d'un bot Discord qui aide à la gestion de parties de jeu de rôle en ligne."
     },
     {
-      name: 'Appréhender et construire des algorithmes',
+      name: 'Optimiser',
       description: "Développement d'un algorithme automatisant des parties d'un snake modifié avec des obstacles et des téléporteurs en C."
     },
     {
-      name: 'Installer et configurer un poste de travail',
+      name: 'Administrer un système informatique',
       description: "Création de scripts bash permettant l'automatisation de la transformation de fichiers pour un site web en utilisant Docker."
     },
     {
-      name: "Concevoir et mettre en place une base de données à partir d'un cahier des charges client",
+      name: "Gérer des données",
       description: "Création d'une base de donnée permettant la gestion d'une saison de Football avec différentes ligues."
     },
     {
-      name: 'Identifier les besoins métiers des clients et des utilisateurs',
+      name: 'Conduire un projet',
       description: "Création d'un site web sur les Jeux Olympiques de Paris 2024 à partir de besoins clients."
     },
     {
-      name: 'Identifier ses aptitudes pour travailler dans une équipe',
+      name: 'Travailler dans une équipe',
       description: "Création d'une journée teambuilding et d'une vidéo pour la promouvoir."
     }
   ],
