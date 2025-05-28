@@ -27,27 +27,28 @@ window.PorfolioConfig = {
   competences: [
     {
       name: 'Développer des applications informatiques',
-      description: "Développement d'un bot Discord qui aide à la gestion de parties de jeu de rôle en ligne. <br>J'ai conçu un de plateau de jeu avec un système de distance, un algorithme qui s'occupe des combats et plusieurs outils pour aider à la gestion des personnages joueurs."
+      description: "Développement d'un bot Discord qui aide à la gestion de parties de jeu de rôle en ligne. <br>J'ai conçu un de plateau de jeu avec un système de distance, un algorithme qui s'occupe des combats et plusieurs outils pour aider à la gestion des personnages joueurs. <br>Langage: Python"
     },
     {
       name: 'Optimiser',
-      description: "Développement d'un algorithme automatisant des parties d'un snake modifié avec des obstacles et des téléporteurs en C."
+      description: "Développement d'un algorithme automatisant des parties d'un snake modifié avec des obstacles et des téléporteurs. <br>J'ai conçu un algorithme qui joue au snake de façon automatisée et optimisée. Puis j'ai rajouté un deuxième serpent lui aussi automatisé avec le même algorithme. <br>Langage: C"
     },
     {
       name: 'Administrer un système informatique',
-      description: "Création de scripts bash permettant l'automatisation de la transformation de fichiers pour un site web en utilisant Docker."
+      description: "Création de scripts permettant l'automatisation de la transformation de fichiers pour un site web en utilisant Docker. <br>J'ai automatisé la transformation d'images dans un bon format/taille/poids, de fichiers excel en csv. <br>Langage: Bash"
     },
     {
       name: "Gérer des données",
-      description: "Création d'une base de donnée permettant la gestion d'une saison de Football avec différentes ligues."
+      description: "Création d'une base de donnée permettant la gestion d'une saison de Football avec différentes ligues. <br>Langage: Tutorial D"
     },
     {
       name: 'Conduire un projet',
-      description: "Création d'un site web sur les Jeux Olympiques de Paris 2024 à partir de besoins clients."
+      description: "Gestion d'un projet informatique. J'ai réalisé la note de cadrage, la SEL, un organigramme des tâches, une matrice RACI et l'estimation des charges d'un projet à partir d'une demande client."
+      
     },
     {
       name: 'Travailler dans une équipe',
-      description: "Création d'une journée teambuilding et d'une vidéo pour la promouvoir."
+      description: "Création d'une journée teambuilding et d'une vidéo pour la promouvoir. J'ai organisé la journée, créé un infographie de celle-ci, tourné et monté une vidéo pour la promuvoir."
     }
   ],
   etudes: [
@@ -73,7 +74,7 @@ window.PorfolioConfig = {
     },
     {
       name: 'Jeux Vidéos',
-      description: "Palmarès:<br>A battu le Pantheon d'Hallownest en no-hit sur Hollow Knight. <br>Meilleur Support d'Europe sur Overwatch Switch en 2020. <br>Apex Predator sur Apex Legends en Saison 4. <br>A atteint 47 de Chaleur sur Hades avec les gants de Gilgamesh. <br>A gagné une partie d'échecs en 5D avec voyage dans le temps multivers."
+      description: "Palmarès:<br>A battu le Pantheon d'Hallownest en no-hit sur Hollow Knight. <br>Meilleur Support d'Europe sur Overwatch Switch en 2020. <br>Apex Predator sur Apex Legends en Saison 4. <br>A atteint 47 de Chaleur sur Hades avec les gants de Gilgamesh. <br>A gagné une partie d'échecs en 5D avec voyage dans le temps multivers.<br>A battu le Fatalis et l'Alatreon en solo sur Monster Hunter World. <br>A fini Pokemon X en 4h 8m 32s (36ème meilleur temps au monde)"
     }
   ],
   contacts: {
