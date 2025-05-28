@@ -27,7 +27,7 @@ window.PorfolioConfig = {
   competences: [
     {
       name: 'Développer des applications informatiques',
-      description: "Développement d'un bot Discord qui aide à la gestion de parties de jeu de rôle en ligne."
+      description: "Développement d'un bot Discord qui aide à la gestion de parties de jeu de rôle en ligne. <br>J'ai conçu un de plateau de jeu avec un système de distance, un algorithme qui s'occupe des combats et plusieurs outils pour aider à la gestion des personnages joueurs."
     },
     {
       name: 'Optimiser',
