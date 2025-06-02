@@ -74,7 +74,7 @@ window.PorfolioConfig = {
     },
     {
       name: 'Jeux Vidéos',
-      description: "Palmarès:<br>A battu le Pantheon d'Hallownest en no-hit sur Hollow Knight. <br>Meilleur Support d'Europe sur Overwatch Switch en 2020. <br>Apex Predator sur Apex Legends en Saison 4. <br>A atteint 47 de Chaleur sur Hades avec les gants de Gilgamesh. <br>A gagné une partie d'échecs en 5D avec voyage dans le temps multivers.<br>A battu le Fatalis et l'Alatreon en solo sur Monster Hunter World. <br>A fini Pokemon X en 4h 8m 32s (36ème meilleur temps au monde)"
+      description: "Palmarès:<br>A battu le Pantheon d'Hallownest en no-hit sur Hollow Knight. <br>Meilleur Support d'Europe sur Overwatch Switch en 2020. <br>Apex Predator sur Apex Legends en Saison 4. <br>A atteint 47 de Chaleur sur Hades avec les gants de Gilgamesh. <br>A gagné une partie d'échecs en 5D avec voyage dans le temps multivers.<br>A battu le Fatalis et l'Alatreon en solo sur Monster Hunter World. <br>A fini Pokemon X en 4h 8m 32s (36ème meilleur temps au monde)."
     }
   ],
   contacts: {
